@@ -1,0 +1,10 @@
+id_livro,titulo,ano_publicacao,id_autor,id_editora
+1,"Harry Potter e a Pedra Filosofal",1997,1,1
+2,1984,1949,2,3
+3,"Dom Casmurro",1899,3,2
+4,"Orgulho e Preconceito",1813,4,3
+5,"Cem Anos de Solidão",1967,5,4
+6,"A Mão e a Luva",1874,3,2
+7,Helena,1876,3,2
+8,"Dom Casmurro",1899,3,2
+9,"As Relíquias da Morte",1999,1,1
